@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title','store page')
-
+@section('nav_store','active')
 
 @section('content')
     <section class="page-section cta">

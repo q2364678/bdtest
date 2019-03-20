@@ -3,7 +3,7 @@
 @extends('frontend.layouts.master')
 
 @section('title','about page')
-
+@section('nav_about','active')
 <body>
 
  

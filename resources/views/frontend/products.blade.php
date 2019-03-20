@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title','products page')
-
+@section('nav_products','active')
 
 
 
